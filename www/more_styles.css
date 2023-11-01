@@ -1,0 +1,14 @@
+section {
+  background-color: green;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+article {
+  background-color: blue;
+  flex: 0 0 30%;
+  margin: 1rem;
+  
+}
+
